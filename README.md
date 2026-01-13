@@ -23,26 +23,17 @@ I'm a passionate developer who loves building innovative solutions and learning 
 ## 🛠️ Technologies & Tools
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2E9EF7" />
-  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2E9EF7" />
+  <!-- Lenguajes -->
+  <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2E9EF7" />
   <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2E9EF7" />
-  <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2E9EF7" />
-  <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2E9EF7" />
+
+  <!-- Frameworks -->
+  <img src="https://img.shields.io/badge/Framework-React-informational?style=flat&logo=react&logoColor=white&color=2E9EF7" />
+  <img src="https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=spring&logoColor=white&color=2E9EF7" />
+
+  <!-- Herramientas -->
   <img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2E9EF7" />
   <img src="https://img.shields.io/badge/Tools-Linux-informational?style=flat&logo=linux&logoColor=white&color=2E9EF7" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sin3die&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="sin3die's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sin3die&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sin3die&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
