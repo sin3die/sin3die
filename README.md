@@ -1,7 +1,7 @@
-<h1 align="center">Hi there, I'm Sin3die 👋</h1>
+<h1 align="center">Hi there, I'm sin3die 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/Sin3die">
+  <a href="https://github.com/sin3die">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Developer;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
   </a>
 </p>
@@ -37,12 +37,12 @@ I'm a passionate developer who loves building innovative solutions and learning 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sin3die&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sin3die's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sin3die&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sin3die&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="sin3die's GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sin3die&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sin3die&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sin3die&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -50,17 +50,17 @@ I'm a passionate developer who loves building innovative solutions and learning 
 ## 🤝 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/Sin3die">
-    <img src="https://img.shields.io/badge/GitHub-Sin3die-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  <a href="https://github.com/sin3die">
+    <img src="https://img.shields.io/badge/GitHub-sin3die-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sin3die&color=2E9EF7&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=sin3die&color=2E9EF7&style=flat-square&label=Profile+Views" alt="Profile views" />
 </p>
 
 <p align="center">
-  <i>⭐️ From <a href="https://github.com/Sin3die">Sin3die</a></i>
+  <i>⭐️ From <a href="https://github.com/sin3die">sin3die</a></i>
 </p>
